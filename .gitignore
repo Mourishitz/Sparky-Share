@@ -1,0 +1,17 @@
+pnp
+env
+.env
+build
+.idea
+pnp.js
+coverage
+DS_Store
+env.local
+node_modules
+npm-debug.log*
+env.test.local
+yarn-debug.log*
+yarn-error.log*
+env.production.local
+env.development.local
+
